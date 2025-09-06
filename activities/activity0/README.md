@@ -73,3 +73,10 @@ run npm start
 ![The commented TypeScript code.](./screenshots/part2/1_typescript_code_commented.png "The commented TypeScript code.")
 
 The commented TypeScript code.
+
+## Conclusion
+
+This activity demonstrated the installation of required tools, and web applications run using the following frameworks:
+- NodeJS
+- Express
+- TypeScript

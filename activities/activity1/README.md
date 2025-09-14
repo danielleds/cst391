@@ -1,6 +1,6 @@
 # Activity 1
 - Author: Danielle DeSilvio
-- Date: 10 September, 2025
+- Date: 14 September, 2025
 
 ## Introduction
 
@@ -26,7 +26,7 @@ npm run start
 
 Click the link below to view the demo of the API being tested in Postman.
 
-[]()
+[https://www.youtube.com/watch?v=pgyrvjhT5ng](https://www.youtube.com/watch?v=pgyrvjhT5ng)
 
 ### **All Albums**
 

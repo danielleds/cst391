@@ -3,7 +3,7 @@
 **Eastern Ridge Church App**
 
 - Author: Danielle DeSilvio
-- Date: September 13, 2025
+- Date: September 14, 2025
 
 ## Introduction
 

@@ -1,0 +1,15 @@
+{
+	"title": "USS Constellation CV64",
+	"artist": "Bobby Estey",
+	"description": "USS Constellation CV64",
+	"year": 1961,
+	"image": "https://gitlab.com/bobby.estey/wikibob/-/raw/master/docs/icons/cv64AmericasFlagShip100x100.png",
+	"tracks": [
+		{
+			"number": 1,
+			"title": "USS Constellation CV64",
+			"video": null,
+			"lyrics": ""
+		}
+	]
+}

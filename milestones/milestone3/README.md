@@ -11,6 +11,12 @@ The Eastern Ridge Church is a hypothetical church aiming to provide its members 
 
 Members will additionally be able to send messages to church faculty and make donations through the app.
 
+## Screencast
+
+Click the following link to view the screencast presentation:
+
+[https://www.youtube.com/watch?v=VFDWdu5qKN4](https://www.youtube.com/watch?v=VFDWdu5qKN4)
+
 ## User Stories
 
 | User Functionality | Admin Functionality |

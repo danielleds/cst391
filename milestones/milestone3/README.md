@@ -1,4 +1,4 @@
-# CST-391 Milestone 2 - Project Proposal
+# CST-391 Milestone 3 - Rest API using Express Framework
 
 **Eastern Ridge Church App**
 
@@ -10,14 +10,6 @@
 The Eastern Ridge Church is a hypothetical church aiming to provide its members a means of accessing the topical content and resources found within their sermons. Users of the application will be able to see sermon summaries, verses referenced, and the songs used in the worship service.
 
 Members will additionally be able to send messages to church faculty and make donations through the app.
-
-### Instructor Feedback
-
-An excerpt from the feedback received:
-
-> ...in the future explain your diagrams...
-
-This was addressed by expanding upon the captions following all of the diagrams in the ER Diagram, UI Wireframes, and UML Class Diagram sections.
 
 ## User Stories
 
@@ -33,6 +25,9 @@ This was addressed by expanding upon the captions following all of the diagrams 
 | Add, Change, and delete payment methods | |
 
 ## API
+
+**Note: at the time of this Milestone's upload, only the sermon endpoints are fully functional.**
+
 | Request type | Endpoint | Description |
 | -------- | ------- | ------- |
 | GET | /sermons | Retrieves all sermons and their associated data. |

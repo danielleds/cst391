@@ -5,7 +5,7 @@
 ## Introduction
 
 - This activity demonstrates the installation of Angular, in addition to setting up a new test application using it. 
-     - [Angular](https://www.mysql.com/): The  web framework installed and demonstrated in this activity; used to build web applications.
+     - [Angular](https://angular.dev/): The  web framework installed and demonstrated in this activity; used to build web applications.
 
 - Links for server and development technology:
 

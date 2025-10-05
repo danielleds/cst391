@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core'
-import { FormsModule }   from '@angular/forms';;
+import { FormsModule }   from '@angular/forms';
 import { Album } from '../models/albums.model';
 import { Track } from '../models/tracks.model';
 import { MusicService } from '../service/music-service';

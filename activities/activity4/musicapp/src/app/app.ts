@@ -24,8 +24,6 @@ export class App {
   }
 
   displayArtistList() {
-    console.log("hello?");
     this.router.navigate(['list-artists'], { queryParams: { data: new Date()} });
-    console.log("hello?");
   }
 }

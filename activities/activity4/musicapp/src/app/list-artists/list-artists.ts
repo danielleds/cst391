@@ -17,7 +17,7 @@ import { CommonModule } from '@angular/common';
 export class ListArtists {
   constructor(private route: ActivatedRoute, private service: MusicService, private cd: ChangeDetectorRef) { }
   selectedArtist: Artist | null = null;
-  artists: Artist[] = []
+  artists: Artist[] = [];
 
   ngOnInit() {
     console.log("Getting data");

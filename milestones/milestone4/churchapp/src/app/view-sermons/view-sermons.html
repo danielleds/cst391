@@ -1,0 +1,10 @@
+<div class="card card-body">
+  <a href="/create">Add new sermon</a>
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item" *ngFor="let sermon of sermons">
+      <a routerLink="{{ '/edit/' + sermon.sermonId }}">Edit</a> |
+      <button (click)="deleteSermon(sermon.sermonId)">Delete</button> |
+      <a routerLink="{{ '/sermon/' + sermon.sermonId }}">{{ sermon.date }} - {{ sermon.title }} ({{ sermon.sermonId }})</a>
+    </li>
+  </ul>
+</div>

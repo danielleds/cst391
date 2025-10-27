@@ -13,7 +13,7 @@ The Eastern Ridge Church is a hypothetical church aiming to provide its members 
 
 Click the following link to view the screencast presentation:
 
-[]()
+[https://www.youtube.com/watch?v=yuLcvGcArHM](https://www.youtube.com/watch?v=yuLcvGcArHM)
 
 ## NOTICE
 
